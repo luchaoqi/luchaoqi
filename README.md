@@ -13,3 +13,9 @@ I am the kind of person who goes sleepless when introduced to any interesting ne
 Comfortable languages: R (Shiny), Python, SQL, Shell Scripting (Linux)
 
 
+
+
+
+![Luchao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luchaoqi)
+
+
