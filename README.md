@@ -14,12 +14,12 @@ Comfortable languages: R (Shiny), Python, SQL, Shell Scripting (Linux)
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://wakatime.com/share/@luchaoqi/0828307c-ea09-4c7b-ab68-354342f12102.svg" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luchaoqi" /></a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact" /></a>
 
 
