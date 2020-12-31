@@ -14,10 +14,8 @@ Comfortable languages: R (Shiny), Python, SQL, Shell Scripting (Linux)
 
 
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://wakatime.com/share/@luchaoqi/27a7852b-cd58-4b0e-85f5-f9423254f7b1.png" /></a>
+  <img align="center" src="https://wakatime.com/share/@luchaoqi/0828307c-ea09-4c7b-ab68-354342f12102.svg" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luchaoqi" /></a>
