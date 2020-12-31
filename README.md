@@ -14,7 +14,13 @@ Comfortable languages: R (Shiny), Python, SQL, Shell Scripting (Linux)
 
 
 
-<figure><embed src="https://wakatime.com/share/@luchaoqi/9d18701c-76c3-4ba7-988a-f26400bb8346.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@luchaoqi/27a7852b-cd58-4b0e-85f5-f9423254f7b1.png" /></a>
+
+
+
+
+
+
 
 ![Luchao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luchaoqi)
 
