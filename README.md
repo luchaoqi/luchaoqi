@@ -17,11 +17,10 @@ Comfortable languages: R (Shiny), Python, SQL, Shell Scripting (Linux)
 <a>
   <img align="center" src="https://wakatime.com/share/@luchaoqi/0828307c-ea09-4c7b-ab68-354342f12102.svg" /></a>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luchaoqi" /></a>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact)
+
 
 
 
