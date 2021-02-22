@@ -14,7 +14,7 @@ Comfortable languages: R (Shiny), Python, SQL, Shell Scripting (Linux)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&theme=dark)
 
 
 
