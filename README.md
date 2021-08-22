@@ -10,7 +10,7 @@ I am the kind of person who goes sleepless when introduced to any interesting ne
 
 
 
-Comfortable languages: R (Shiny), Python, SQL, Shell Scripting (Linux)
+Comfortable languages: Python, R, SQL, Shell Scripting (Linux)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
