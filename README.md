@@ -10,8 +10,8 @@ I am the kind of person who goes sleepless when introduced to any interesting ne
 ```text
 From: 18 February, 2022 - To: 25 February, 2022
 
-Bash       11 mins         ████████████▓░░░░░░░░░░░░   50.84 % 
-Makefile   10 mins         ███████████▓░░░░░░░░░░░░░   47.28 % 
+Bash       11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.84 % 
+Makefile   10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.28 % 
 ```
 <!--END_SECTION:waka-->
 
