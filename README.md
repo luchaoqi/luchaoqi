@@ -6,6 +6,13 @@ My name is Luchao Qi, I am thrilled and excited about exploring the fields of Ma
 
 I am the kind of person who goes sleepless when introduced to any interesting new technology, with a burning and devoted urge to pursue research in that area. Given any problem, I always try to solve it with efficiency to the most intricate levels of the problem.
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Coding Metrics
+
 <!--START_SECTION:waka-->
 
 ```text
