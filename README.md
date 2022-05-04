@@ -9,6 +9,10 @@ I am the kind of person who goes sleepless when introduced to any interesting ne
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 Year End Recap](https://luchaoqi.github.io/blog/2022-Year-End-Recap/)
+- [PCA from Scratch](https://luchaoqi.github.io/blog/PCA-from-Scratch/)
+- [Binary Search](https://luchaoqi.github.io/blog/Binary-Search/)
+- [Merge Sort](https://luchaoqi.github.io/blog/Merge-Sort/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Coding Metrics
