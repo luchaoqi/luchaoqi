@@ -13,6 +13,10 @@ I am the kind of person who goes sleepless when introduced to any interesting ne
 
 ## Coding Metrics
 
+[![wakatime](https://wakatime.com/badge/user/79dbde15-053e-45a5-9807-80fb917620cc.svg)](https://wakatime.com/@79dbde15-053e-45a5-9807-80fb917620cc)
+
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=luchaoqi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 <!--START_SECTION:waka-->
 
 ```text
