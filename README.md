@@ -48,7 +48,7 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" />
-<img src="https://leetcode.card.workers.dev/?username=luchaoqi&theme=auto" width="49.2%" height="49.2%" />
+<img src="https://leetcode.card.workers.dev/?username=luchaoqi&theme=auto" width="49.25%" height="49.25%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages (Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="49.5%" height="49.5%" /> -->
 
 
