@@ -41,7 +41,7 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src=https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff"  width="49.9%" height="49.9%" />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages (Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="49.4%" height="49.4%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages (Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="49.5%" height="49.5%" />
 </a>
 </div>
 
