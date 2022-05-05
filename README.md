@@ -38,8 +38,12 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=luchaoqi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact" />
+</a>
+<a href=https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=luchaoqi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+</a>
 
 ### Others
 
