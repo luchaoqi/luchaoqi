@@ -36,12 +36,12 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<div>
+<div style="display: flex; justify-content: space-around">
 <a>
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="49%" height="49%" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages (Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages (Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="49%" height="49%" />
 </a>
 </div>
 
