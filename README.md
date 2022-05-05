@@ -21,9 +21,7 @@
 - [Merge Sort](https://luchaoqi.github.io/blog/Merge-Sort/)
 <!-- BLOG-POST-LIST:END -->
 
-### Coding Metrics [![wakatime](https://wakatime.com/badge/user/79dbde15-053e-45a5-9807-80fb917620cc.svg)](https://wakatime.com/@79dbde15-053e-45a5-9807-80fb917620cc)
-
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=luchaoqi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+### Coding Metrics
 
 <!--START_SECTION:waka-->
 
@@ -41,12 +39,17 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=luchaoqi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-### Links
+### Others
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luchaoqi" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="luchaoqi" /></a>
-  <a href="https://stackoverflow.com/users/11964524/luchao-qi?tab=profile" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="luchaoqi" /><a>
-  <a href="https://www.buymeacoffee.com/luchaoqi" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="luchaoqi" /></a>
-</p>  
+  <a href="https://www.linkedin.com/in/luchaoqi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="luchaoqi" /></a>
+  <a href="https://stackoverflow.com/users/11964524/luchao-qi?tab=profile" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="luchaoqi" /><a>
+  <a href="https://www.buymeacoffee.com/luchaoqi" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="luchaoqi" /></a>
+</p>
+<p align="left">
+  <a> <img src="https://gpvc.arturio.dev/luchaoqi" alt="luchaoqi" /> </a>
+  <a href="https://wakatime.com/@79dbde15-053e-45a5-9807-80fb917620cc"><img src="https://wakatime.com/badge/user/79dbde15-053e-45a5-9807-80fb917620cc.svg" alt="Total time coded since Mar 26 2021" /></a>
+</p>
 
