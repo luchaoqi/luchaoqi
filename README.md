@@ -48,7 +48,7 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" />
-<img src="https://leetcode.card.workers.dev/?username=luchaoqi&theme=auto" width="49.3%" height="49.3%" />
+<img src="https://leetcode.card.workers.dev/?username=luchaoqi&theme=auto" width="49.2%" height="49.2%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages (Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="49.5%" height="49.5%" /> -->
 
 
@@ -64,7 +64,7 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 
 
-### <a><img src="https://media.giphy.com/media/PxI5G2tUrqa1tKzitG/giphy.gif" width="25px"></a> More
+### <a><img src="https://media.giphy.com/media/PxI5G2tUrqa1tKzitG/giphy.gif" width="25px"></a> What's More
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luchaoqi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="luchaoqi" /></a>
