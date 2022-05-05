@@ -36,4 +36,9 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+## Connections
+<p align="left">
+  <a href="https://www.linkedin.com/in/luchaoqi/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="luchaoqi" /></a>
+  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
