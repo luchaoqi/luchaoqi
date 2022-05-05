@@ -1,19 +1,25 @@
+<!-- Check out some resources here to build an awesome github profile: -->
+<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- https://github.com/DavidAnson/markdownlint/blob/main/README.md -->
+<!-- https://giphy.com/stickers/ -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-### About Me <a href="https://luchaoqi.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> About Me
+
+<div>
+  <div
+  <!-- markdownlint-disable MD033 -->
+  <img src="https://quotes-github-readme.vercel.app/api" width="200" align="right" />
+  <!-- markdownlint-enable MD033 -->
+
+  My name is Luchao Qi, I am thrilled and excited about exploring the fields of Machine Learning, Deep Learning (Natural Language Processing & Computer Vision), Next Generation Sequencing (NGS), and Algorithm Design for solving real-world problems having profound implications.  Feel free to check out my project portfolio (https://luchaoqi.com/projects/). <br>
+  I am the kind of person who goes sleepless when introduced to any interesting new technology, with a burning and devoted urge to pursue research in that area.
+  Given any problem, I always try to solve it with efficiency to the most intricate levels of the problem.
+</div>
 
 
-<img src="https://quotes-github-readme.vercel.app/api" width="200" align="right" />
-
-
-My name is Luchao Qi, I am thrilled and excited about exploring the fields of Machine Learning, Deep Learning (Natural Language Processing & Computer Vision), Next Generation Sequencing (NGS), and Algorithm Design for solving real-world problems having profound implications.  Feel free to check out my project portfolio (https://luchaoqi.com/projects/). <br>
-I am the kind of person who goes sleepless when introduced to any interesting new technology, with a burning and devoted urge to pursue research in that area.
-Given any problem, I always try to solve it with efficiency to the most intricate levels of the problem.
-
-
-
-### Latest Blog Posts
+### <a><img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="25px"></a> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [2022 Year End Recap](https://luchaoqi.github.io/blog/2022-Year-End-Recap/)
@@ -22,7 +28,7 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 - [Merge Sort](https://luchaoqi.github.io/blog/Merge-Sort/)
 <!-- BLOG-POST-LIST:END -->
 
-### Coding Metrics
+### <a><img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="25px"></a> Coding Metrics
 
 <!--START_SECTION:waka-->
 
@@ -48,8 +54,8 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </a>
 </div>
 
-<details>
-<summary><h3> Tech Stacks </h3></summary>
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></a> Tech Stacks
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -59,9 +65,8 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 
-</details>
 
-### Others
+### <a><img src="https://media.giphy.com/media/PxI5G2tUrqa1tKzitG/giphy.gif" width="25px"></a> More
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luchaoqi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="luchaoqi" /></a>
