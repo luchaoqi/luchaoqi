@@ -28,7 +28,7 @@
 - [Merge Sort](https://luchaoqi.github.io/blog/Merge-Sort/)
 <!-- BLOG-POST-LIST:END -->
 
-### <a><img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="25px"></a> Coding Metrics
+### <a><img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="25px"></a> Dev Stats
 
 <!--START_SECTION:waka-->
 
@@ -45,14 +45,14 @@ Markdown     3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<div>
+
 <a>
   <img src=https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff"  width="49.9%" height="49.9%" />
 </a>
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages (Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="49.5%" height="49.5%" />
 </a>
-</div>
+
 
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></a> Tech Stacks
