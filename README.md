@@ -27,7 +27,7 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 - [Merge Sort](https://luchaoqi.github.io/blog/Merge-Sort/)
 <!-- BLOG-POST-LIST:END -->
 
-### <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="25px"> Dev Stats
+### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="25px"> Dev Stats
 
 <!--START_SECTION:waka-->
 
