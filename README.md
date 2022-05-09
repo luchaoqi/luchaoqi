@@ -43,6 +43,17 @@ YAML     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+<!-- STREAK STATS -->
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=luchaoqi&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+</p>
+
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="center" />
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-light-mode-only" align="center" />
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="center" />
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-light-mode-only" align="center" />
+
 ![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
