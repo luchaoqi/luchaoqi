@@ -49,16 +49,24 @@ YAML     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <br>
 </p>
 
+
+
 <div align="center">
-<a href="">
-<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
+<img src="https://github.com/luchaoqi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/luchaoqi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-<a href="">
-<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+<img src="https://github.com/luchaoqi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/luchaoqi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
+
 </div>
+
 
 <!-- <div> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" /> -->
