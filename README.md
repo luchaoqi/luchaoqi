@@ -43,6 +43,9 @@ YAML     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+![](https://github.com/luchaoqi/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/luchaoqi/github-stats/blob/master/generated/overview.svg)
+
 
 <!-- <div> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" /> -->
