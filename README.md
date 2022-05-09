@@ -43,8 +43,8 @@ YAML     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-![](https://github.com/luchaoqi/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/luchaoqi/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/luchaoqi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/luchaoqi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
 
 <!-- <div> -->
