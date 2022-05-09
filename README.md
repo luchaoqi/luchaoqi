@@ -49,7 +49,16 @@ YAML     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <br>
 </p>
 
-<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="center" /><img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-light-mode-only" align="center" /><img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="center" /><img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-light-mode-only" align="center" />
+<div align="center">
+<a href="">
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="">
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+</div>
 
 ![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-light-mode-only)
