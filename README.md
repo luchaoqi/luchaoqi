@@ -60,12 +60,6 @@ YAML     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </a>
 </div>
 
-![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/luchaoqi/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-
 <!-- <div> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" /> -->
 <!--   <img src="https://leetcode.card.workers.dev/?username=luchaoqi&theme=auto" width="49.25%" height="49.25%" /> -->
