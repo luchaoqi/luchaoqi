@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://luchaoqi.com/atom.xml"
+          feed_list: "https://luchaoqi.com/atom.xml,https://stackoverflow.com/feeds/user/11964524,https://subdomain.stackexchange.com/feeds/user/16557825"
