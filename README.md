@@ -18,7 +18,7 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 
 
 
-### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="25px"> Latest Blog Posts
+### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="25px"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [2022 Year End Recap](https://luchaoqi.github.io/blog/2022-Year-End-Recap/)
