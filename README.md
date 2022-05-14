@@ -22,9 +22,9 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 
 <!-- BLOG-POST-LIST:START -->
 - [2022 Year End Recap](https://luchaoqi.github.io/blog/2022-Year-End-Recap/)
+- [Answer by Luchao Qi for How to persist state of plotly graph in Dash App](https://stackoverflow.com/questions/63611740/how-to-persist-state-of-plotly-graph-in-dash-app/69859252#69859252)
+- [Answer by Luchao Qi for Multi-Page Dash App Callbacks Not Registering](https://stackoverflow.com/questions/59903698/multi-page-dash-app-callbacks-not-registering/69186338#69186338)
 - [PCA from Scratch](https://luchaoqi.github.io/blog/PCA-from-Scratch/)
-- [Binary Search](https://luchaoqi.github.io/blog/Binary-Search/)
-- [Merge Sort](https://luchaoqi.github.io/blog/Merge-Sort/)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="25px"> Dev Stats
