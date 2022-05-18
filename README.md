@@ -32,10 +32,10 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 
 
 <!-- STREAK STATS -->
-<p align="center"> 
+<!-- <p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=luchaoqi&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
     <br>
-</p>
+</p> -->
 
 
 
