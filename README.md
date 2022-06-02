@@ -4,7 +4,7 @@
 <!-- https://giphy.com/stickers/ -->
 
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> About Me
 
 
 <!-- markdownlint-disable MD033 -->
@@ -18,7 +18,7 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 
 
 
-### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="25px"> Latest Posts
+### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="25"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Luchao Qi for How to change the column type of all columns except the first in Pandas?](https://stackoverflow.com/questions/70893764/how-to-change-the-column-type-of-all-columns-except-the-first-in-pandas/72396371#72396371)
@@ -27,7 +27,7 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 - [Answer by Luchao Qi for Multi-Page Dash App Callbacks Not Registering](https://stackoverflow.com/questions/59903698/multi-page-dash-app-callbacks-not-registering/69186338#69186338)
 <!-- BLOG-POST-LIST:END -->
 
-### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="25px"> Dev Stats
+### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="25"> Dev Stats
 
 
 
@@ -74,7 +74,7 @@ Other        19 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- </div> -->
 
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Main Tech Stacks 
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Main Tech Stacks 
 
 
 |Type|Tech stacks|
@@ -86,7 +86,7 @@ Other        19 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 | 🥅 Other        | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) |
 
 
-### <img src="https://media.giphy.com/media/PxI5G2tUrqa1tKzitG/giphy.gif" width="25px"> What's More
+### <img src="https://media.giphy.com/media/PxI5G2tUrqa1tKzitG/giphy.gif" width="25"> What's More
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luchaoqi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="luchaoqi" /></a>
