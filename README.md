@@ -21,10 +21,10 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Farewell to Valted Seq](https://luchaoqi.github.io/blog/Farewell-to-Valted-Seq/)
+- [Attention](https://luchaoqi.github.io/blog/Attention/)
 - [Docker 101](https://luchaoqi.github.io/blog/Docker-101/)
 - [Answer by Luchao Qi for Understanding mov in assembly](https://stackoverflow.com/questions/49837577/understanding-mov-in-assembly/72521018#72521018)
-- [Answer by Luchao Qi for How to change the column type of all columns except the first in Pandas?](https://stackoverflow.com/questions/70893764/how-to-change-the-column-type-of-all-columns-except-the-first-in-pandas/72396371#72396371)
-- [2022 Year End Recap](https://luchaoqi.github.io/blog/2022-Year-End-Recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
