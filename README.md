@@ -21,10 +21,10 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embeddings](https://luchaoqi.github.io/blog/Embeddings/)
 - [Farewell to Valted Seq](https://luchaoqi.github.io/blog/Farewell-to-Valted-Seq/)
 - [Attention](https://luchaoqi.github.io/blog/Attention/)
 - [Docker 101](https://luchaoqi.github.io/blog/Docker-101/)
-- [Answer by Luchao Qi for Understanding mov in assembly](https://stackoverflow.com/questions/49837577/understanding-mov-in-assembly/72521018#72521018)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
