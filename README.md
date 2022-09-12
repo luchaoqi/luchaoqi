@@ -55,10 +55,11 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
+From: 02 September 2022 - To: 09 September 2022
 
-Python       8 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.40 %
-Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.19 %
+Python       8 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.76 %
+MATLAB       2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.59 %
+Other        1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.22 %
 ```
 
 <!--END_SECTION:waka-->
