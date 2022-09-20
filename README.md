@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/11964524"> <img src="https://github-readme-stackoverflow.vercel.app/?userID=11964524" width="200" align="right" /> </a>
 <!-- markdownlint-enable MD033 -->
 
-My name is Luchao Qi, I am thrilled and excited about exploring the fields of Machine Learning, Deep Learning (Natural Language Processing & Computer Vision), Next Generation Sequencing (NGS), and Algorithm Design for solving real-world problems having profound implications.  Feel free to check out my project portfolio (https://luchaoqi.com/projects/). <br>
+My name is Luchao Qi, I am thrilled and excited about exploring the fields of Machine Learning, Deep Learning (Neural Rendering & Computer Graphics), Bioinformatics (NGS), and Algorithm Design for solving real-world problems having profound implications.  Feel free to check out my project portfolio (https://luchaoqi.com/projects/). <br>
 I am the kind of person who goes sleepless when introduced to any interesting new technology, with a burning and devoted urge to pursue research in that area.
 Given any problem, I always try to solve it with efficiency to the most intricate levels of the problem.
 
