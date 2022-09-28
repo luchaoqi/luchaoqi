@@ -21,10 +21,10 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Diffusion Models](https://luchaoqi.github.io/blog/Diffusion-Models/)
 - [Word Embeddings](https://luchaoqi.github.io/blog/Word-Embeddings/)
 - [Farewell to Valted Seq](https://luchaoqi.github.io/blog/Farewell-to-Valted-Seq/)
 - [Attention](https://luchaoqi.github.io/blog/Attention/)
-- [Docker 101](https://luchaoqi.github.io/blog/Docker-101/)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
