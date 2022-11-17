@@ -68,14 +68,8 @@ Text                3 hrs 19 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
-<!-- <div> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=luchaoqi&bg_color=ffffff00&text_color=0055ff" width="50%" height="50%" /> -->
-<!--   <img src="https://leetcode.card.workers.dev/?username=luchaoqi&theme=auto" width="49.25%" height="49.25%" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchaoqi&layout=compact&custom_title=Most%20Used%20Languages
-(Public%20Repos)&langs_count=4&bg_color=ffffff00&text_color=0055ff" width="49.5%" height="49.5%" /> -->
-<!-- </div> -->
 
-
+<!-- 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Tech Stacks 
 
 
@@ -99,4 +93,4 @@ Text                3 hrs 19 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p align="center">
   <a> <img src="https://gpvc.arturio.dev/luchaoqi" alt="luchaoqi" /> </a>
   <a href="https://wakatime.com/@79dbde15-053e-45a5-9807-80fb917620cc"><img src="https://wakatime.com/badge/user/79dbde15-053e-45a5-9807-80fb917620cc.svg" alt="Total time coded since Mar 26 2021" /></a>
-</p>
+</p> -->
