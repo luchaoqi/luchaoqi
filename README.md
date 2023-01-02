@@ -21,10 +21,10 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Year End Recap](https://luchaoqi.github.io/blog/2023-Year-End-Recap/)
 - [Answer by Luchao Qi for Google Colab running any cell received javascript related errors](https://stackoverflow.com/questions/56550349/google-colab-running-any-cell-received-javascript-related-errors/74595097#74595097)
 - [Diffusion Models](https://luchaoqi.github.io/blog/Diffusion-Models/)
 - [Word Embeddings](https://luchaoqi.github.io/blog/Word-Embeddings/)
-- [Attention](https://luchaoqi.github.io/blog/Attention/)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
