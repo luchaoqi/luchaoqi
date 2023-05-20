@@ -48,8 +48,9 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/luchaoqi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/luchaoqi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
 <img src="https://github.com/luchaoqi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-
+    
 </div>
+
 <br>
 
 <!--START_SECTION:waka-->
@@ -68,6 +69,8 @@ Text         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+<!-- <img src="https://lastfm-recently-played.vercel.app/api?user=luchaoqi" width="500" align="right" />  -->
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=luchaoqi&width=1000)
 
 
 <!-- 
