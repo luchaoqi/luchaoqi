@@ -69,9 +69,6 @@ conf         39 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<!-- <img src="https://lastfm-recently-played.vercel.app/api?user=luchaoqi" width="500" align="right" />  -->
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=luchaoqi&width=1000)
-
 
 <!-- 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Tech Stacks 
