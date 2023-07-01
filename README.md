@@ -21,10 +21,10 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer by Luchao Qi for Google Colab running any cell received javascript related errors](https://stackoverflow.com/questions/56550349/google-colab-running-any-cell-received-javascript-related-errors/74595097#74595097)
-- [Answer by Luchao Qi for Understanding mov in assembly](https://stackoverflow.com/questions/49837577/understanding-mov-in-assembly/72521018#72521018)
-- [Answer by Luchao Qi for How to change the column type of all columns except the first in Pandas?](https://stackoverflow.com/questions/70893764/how-to-change-the-column-type-of-all-columns-except-the-first-in-pandas/72396371#72396371)
-- [Answer by Luchao Qi for How to persist state of plotly graph in Dash App](https://stackoverflow.com/questions/63611740/how-to-persist-state-of-plotly-graph-in-dash-app/69859252#69859252)
+- [Answer by lqi for Google Colab running any cell received javascript related errors](https://stackoverflow.com/questions/56550349/google-colab-running-any-cell-received-javascript-related-errors/74595097#74595097)
+- [Answer by lqi for Understanding mov in assembly](https://stackoverflow.com/questions/49837577/understanding-mov-in-assembly/72521018#72521018)
+- [Answer by lqi for How to change the column type of all columns except the first in Pandas?](https://stackoverflow.com/questions/70893764/how-to-change-the-column-type-of-all-columns-except-the-first-in-pandas/72396371#72396371)
+- [Answer by lqi for How to persist state of plotly graph in Dash App](https://stackoverflow.com/questions/63611740/how-to-persist-state-of-plotly-graph-in-dash-app/69859252#69859252)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
