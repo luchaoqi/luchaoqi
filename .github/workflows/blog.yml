@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://stackoverflow.com/feeds/user/11964524"
+          feed_list: "https://stackoverflow.com/feeds/user/11964524, https://subdomain.stackexchange.com/feeds/user/16557825, https://www.youtube.com/feeds/videos.xml?channel_id=UCS9thPERVX-05uV4YMqtMSg"
