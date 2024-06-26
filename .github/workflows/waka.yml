@@ -13,7 +13,8 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_year
           SHOW_TITLE: true
           SHOW_TOTAL: true
-          BLOCKS: ░▒▓█
+          BLOCKS: ->
+          CODE_LANG: rust
+          TIME_RANGE: last_year
