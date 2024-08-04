@@ -56,15 +56,15 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 July 2023 - To: 27 July 2024
+From: 04 August 2023 - To: 03 August 2024
 
-Total Time: 760 hrs 40 mins
+Total Time: 747 hrs 15 mins
 
-Python           435 hrs 55 mins >>>>>>>>>>>>>>-----------   57.25 %
-sh               231 hrs 57 mins >>>>>>>>-----------------   30.46 %
-HTML             59 hrs 4 mins   >>-----------------------   07.76 %
-GDScript         5 hrs 44 mins   -------------------------   00.75 %
-GDScript3        4 hrs 11 mins   -------------------------   00.55 %
+Python           425 hrs 34 mins >>>>>>>>>>>>>>-----------   56.89 %
+sh               229 hrs 33 mins >>>>>>>>-----------------   30.69 %
+HTML             58 hrs 42 mins  >>-----------------------   07.85 %
+GDScript         5 hrs 44 mins   -------------------------   00.77 %
+GDScript3        4 hrs 11 mins   -------------------------   00.56 %
 ```
 
 <!--END_SECTION:waka-->
