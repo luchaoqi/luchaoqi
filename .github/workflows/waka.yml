@@ -16,5 +16,5 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: true
           BLOCKS: ->
-          CODE_LANG: rust
+          # CODE_LANG: rust
           TIME_RANGE: last_year
