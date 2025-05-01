@@ -21,8 +21,9 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MyTimeMachine: Personalized Facial Age Transformation](https://www.youtube.com/watch?v=hENjfX8A7V0)
 - [My3DGen: A Scalable Personalized 3D Generative Model](https://www.youtube.com/watch?v=wTvWGFRh_Lg)
+- [MyTimeMachine: Personalized Facial Age Transformation](https://www.youtube.com/watch?v=hENjfX8A7V0)
+- [My3DGen: A Scalable Personalized 3D Generative Model](https://www.youtube.com/watch?v=CdZ95K8uCBs)
 - [Answer by lqi for Google Colab running any cell received javascript related errors](https://stackoverflow.com/questions/56550349/google-colab-running-any-cell-received-javascript-related-errors/74595097#74595097)
 <!-- BLOG-POST-LIST:END -->
 
