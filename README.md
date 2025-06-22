@@ -56,15 +56,15 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 14 June 2025
+From: 21 June 2024 - To: 21 June 2025
 
-Total Time: 739 hrs 57 mins
+Total Time: 753 hrs 8 mins
 
-Python       443 hrs 56 mins >>>>>>>>>>>>>>-----------   54.29 %
-sh           233 hrs 27 mins >>>>>>>------------------   28.55 %
-Other        77 hrs 46 mins  >>-----------------------   09.51 %
-HTML         26 hrs          >------------------------   03.18 %
-Markdown     10 hrs 58 mins  -------------------------   01.34 %
+Python       451 hrs 22 mins >>>>>>>>>>>>>>-----------   54.32 %
+sh           235 hrs 17 mins >>>>>>>------------------   28.32 %
+Other        77 hrs 47 mins  >>-----------------------   09.36 %
+HTML         26 hrs          >------------------------   03.13 %
+Markdown     11 hrs 15 mins  -------------------------   01.36 %
 ```
 
 <!--END_SECTION:waka-->
