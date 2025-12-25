@@ -21,10 +21,10 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My3DGen: A Scalable Personalized 3D Generative Model](https://www.youtube.com/watch?v=wTvWGFRh_Lg)
-- [MyTimeMachine: Personalized Facial Age Transformation](https://www.youtube.com/watch?v=hENjfX8A7V0)
-- [My3DGen: A Scalable Personalized 3D Generative Model](https://www.youtube.com/watch?v=CdZ95K8uCBs)
-- [Answer by lqi for Google Colab running any cell received javascript related errors](https://stackoverflow.com/questions/56550349/google-colab-running-any-cell-received-javascript-related-errors/74595097#74595097)
+- [Over++: Generative Video Compositing for Layer Interaction Effects](https://arxiv.org/abs/2512.19661v1)
+- [EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](https://arxiv.org/abs/2510.13652v1)
+- [The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion](https://arxiv.org/abs/2506.21008v3)
+- [TalkingHeadBench: A Multi-Modal Benchmark &amp; Analysis of Talking-Head DeepFake Detection](https://arxiv.org/abs/2505.24866v1)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
