@@ -29,6 +29,17 @@ Given any problem, I always try to solve it with efficiency to the most intricat
 - [Continual Learning of Personalized Generative Face Models with Experience Replay](https://arxiv.org/abs/2412.02627v1)
 - [MyTimeMachine: Personalized Facial Age Transformation](https://www.youtube.com/watch?v=hENjfX8A7V0)
 - [MyTimeMachine: Personalized Facial Age Transformation](https://arxiv.org/abs/2411.14521v2)
+- [My3DGen: A Scalable Personalized 3D Generative Model](https://www.youtube.com/watch?v=CdZ95K8uCBs)
+- [My3DGen: A Scalable Personalized 3D Generative Model](https://arxiv.org/abs/2307.05468v4)
+- [Answer by lqi for Google Colab running any cell received javascript related errors](https://stackoverflow.com/questions/56550349/google-colab-running-any-cell-received-javascript-related-errors/74595097#74595097)
+- [Answer by lqi for Understanding mov in assembly](https://stackoverflow.com/questions/49837577/understanding-mov-in-assembly/72521018#72521018)
+- [Answer by lqi for How to change the column type of all columns except the first in Pandas?](https://stackoverflow.com/questions/70893764/how-to-change-the-column-type-of-all-columns-except-the-first-in-pandas/72396371#72396371)
+- [Answer by lqi for How to persist state of plotly graph in Dash App](https://stackoverflow.com/questions/63611740/how-to-persist-state-of-plotly-graph-in-dash-app/69859252#69859252)
+- [Answer by lqi for Multi-Page Dash App Callbacks Not Registering](https://stackoverflow.com/questions/59903698/multi-page-dash-app-callbacks-not-registering/69186338#69186338)
+- [Answer by lqi for How to expose Kubernetes API with CORS enabled &lpar;Docker for Windows&rpar;](https://stackoverflow.com/questions/57588692/how-to-expose-kubernetes-api-with-cors-enabled-docker-for-windows/69000539#69000539)
+- [Answer by lqi for Standardize dataset containing too large values](https://stackoverflow.com/questions/51741605/standardize-dataset-containing-too-large-values/64145149#64145149)
+- [Answer by lqi for hadoop connection refused on port 9000](https://stackoverflow.com/questions/18322102/hadoop-connection-refused-on-port-9000/58176419#58176419)
+- [Answer by lqi for Omit rows containing specific column of NA](https://stackoverflow.com/questions/11254524/omit-rows-containing-specific-column-of-na/57616315#57616315)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
