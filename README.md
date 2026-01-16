@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/11964524"> <img src="https://github-readme-stackoverflow.vercel.app/?userID=11964524&theme=dark" width="200" align="right" /> </a>
 <!-- markdownlint-enable MD033 -->
 
-My name is Luchao Qi. I am passionate about exploring Machine Learning, Deep Learning (Computer Vision & Computer Graphics), and Robotics to solve real-world problems with meaningful impact. In recent years, I have worked on video generative models for various downstream tasks (see my Google Scholar page <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=xrArE5YAAAAJ&view_op=list_works&sortby=pubdate">here</a> for details).
+My name is Luchao Qi. I am passionate about exploring Machine Learning, Deep Learning (Computer Vision & Computer Graphics), and Robotics to solve real-world problems with meaningful impact. In recent years, I have worked on video generative models for various downstream tasks (see my website <a target="_blank" href="https://luchaoqi.com/">here</a> for details).
 
 Please feel free to reach out via email if you have any questions or opportunities. I’m happy to chat about research, industry roles, or life in general.
 
