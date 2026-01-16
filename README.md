@@ -12,11 +12,9 @@
 <a href="https://stackoverflow.com/users/11964524"> <img src="https://github-readme-stackoverflow.vercel.app/?userID=11964524&theme=dark" width="200" align="right" /> </a>
 <!-- markdownlint-enable MD033 -->
 
-My name is Luchao Qi, I am thrilled and excited about exploring the fields of Machine Learning, Deep Learning (Neural Rendering & Computer Graphics), Bioinformatics (NGS), and Algorithm Design for solving real-world problems having profound implications.
+My name is Luchao Qi. I am passionate about exploring Machine Learning, Deep Learning (Computer Vision & Computer Graphics), and Robotics to solve real-world problems with meaningful impact. In recent years, I have worked on video generative models for various downstream tasks (see my Google Scholar page <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=xrArE5YAAAAJ&view_op=list_works&sortby=pubdate">here</a> for details).
 
-I am the kind of person who goes sleepless when introduced to any interesting new technology, with a burning and devoted urge to pursue research in that area.
-Given any problem, I always try to solve it with efficiency to the most intricate levels of the problem.
-
+Please feel free to reach out via email if you have any questions or opportunities. I’m happy to chat about research, industry roles, or life in general.
 
 ### <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="20"> Latest Posts
 
