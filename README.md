@@ -22,7 +22,7 @@ Please feel free to reach out via email if you have any questions or opportuniti
 - [Over++: Generative Video Compositing for Layer Interaction Effects](https://arxiv.org/abs/2512.19661v1)
 - [EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](https://arxiv.org/abs/2510.13652v1)
 - [The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion](https://arxiv.org/abs/2506.21008v3)
-- [TalkingHeadBench: A Multi-Modal Benchmark &amp; Analysis of Talking-Head DeepFake Detection](https://arxiv.org/abs/2505.24866v2)
+- [TalkingHeadBench: A Multi-Modal Benchmark &amp; Analysis of Talking-Head DeepFake Detection](https://arxiv.org/abs/2505.24866v3)
 <!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Dev Stats
